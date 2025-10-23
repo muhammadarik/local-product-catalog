@@ -43,7 +43,7 @@ export default function HomeScreen({ navigation }) {
     {
       id: 6,
       name: 'Kerajinan Bambu',
-      price: 'Rp1.500 - Rp50.000.000',
+      price: 'Rp1.500 - Rp800.000',
       desc: 'Berbagai macam kerajinan tangan yang terbuat dari bambu.',
       image: require('../../assets/images/kerajinan-bambu.jpg'),
     },
